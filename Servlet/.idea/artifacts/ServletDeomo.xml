@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ServletDeomo">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServletDeomo</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Servlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Servlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
