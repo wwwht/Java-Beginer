@@ -10,7 +10,7 @@ public class Demo extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //设置网页响应类型
         response.setContentType("text/html");
-        //实现具体操作    
+        //实现具体操作
         PrintWriter out = response.getWriter();
         out.println("This is a new servlet page");
     }
