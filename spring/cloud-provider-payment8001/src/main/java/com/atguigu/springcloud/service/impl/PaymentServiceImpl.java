@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 
-@Service
+@Service("paymentService")
 public class PaymentServiceImpl implements PaymentService {
 
     @Resource
@@ -18,7 +18,7 @@ public class PaymentServiceImpl implements PaymentService {
         return paymentDao.create(payment);
     }
 
-    public Payment getPaymentById(@Param("id") Long id){
+    public Payment getPaymentById(Long id){
         return paymentDao.getPaymentById(id);
     }
 
