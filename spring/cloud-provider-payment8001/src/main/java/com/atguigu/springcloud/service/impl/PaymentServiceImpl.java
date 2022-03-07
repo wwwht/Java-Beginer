@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 
-@Service("paymentService")
+@Service
 public class PaymentServiceImpl implements PaymentService {
 
     @Resource
