@@ -13,6 +13,6 @@ spring:
     druid:
       test-while-idle: false
 
-  mybatis:
-    mapper-locations: classpath:mapper/*.xml
-    type-aliases-package: com.atguigu.springcloud.entities
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.atguigu.springcloud.entities
