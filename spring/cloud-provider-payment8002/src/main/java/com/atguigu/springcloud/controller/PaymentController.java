@@ -15,6 +15,7 @@ public class PaymentController {
 
     @Resource
     private PaymentService paymentService;
+
     @Value("${server.port}")
     private String serverPort;
 
@@ -27,7 +28,7 @@ public class PaymentController {
 
         if(result > 0){
             //插入成功
-            return new CommonResult(200, "插入数据库成功, 端口号为"+ serverPort + result);
+            return new CommonResult(200, "插入数据库成功,端口号为： " + serverPort+ result);
         }else{
             return new CommonResult(444, "插入数据库失败");
         }
