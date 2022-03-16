@@ -41,7 +41,7 @@ public class PaymentController {
 
         if(payment != null){
             //查询成功
-            return new CommonResult(200, "查询成功，serverPost："+  payment);
+            return new CommonResult(200, "查询成功，serverPost："+serverPort+ payment);
         }else{
             return new CommonResult(444, "没有对应记录，查询ID：" + id);
         }
