@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6de9241-063f-4097-ad3b-091302876c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CASTest/ABADemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CASTest/CASPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CASTest/MultiThreadAtomicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CASTest/MultiThreadSynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CASTest/MultiThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/CASTest/ABADemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/CASTest/MultiThreadAtomicTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/CASTest/MultiThreadAtomicTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/InstanceCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/Overload.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/myrule/MySelfRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/cloud-provider-payment8002/src/main/resources/mapper/PaymentDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-api-commons/target/cloud-api-commons-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-api-commons/target/cloud-api-commons-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-api-commons/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-api-commons/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/LoadBalancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/MyLB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/config/ApplicationContextConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/config/ApplicationContextConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" afterDir="false" />
