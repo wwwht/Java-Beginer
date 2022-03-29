@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6de9241-063f-4097-ad3b-091302876c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/LoadBalancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/lb/MyLB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/config/ApplicationContextConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/config/ApplicationContextConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-payment8002/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-payment8002/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-payment8002/target/classes/com/atguigu/springcloud/controller/PaymentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/cloud-consumer-hystrix-dashboard9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/cloud-consumer-hystrix-dashboard9001/src/main/java/com/atguigu/springcloud/HystrixDashboard9001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/cloud-consumer-hystrix-dashboard9001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-hystrix-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-hystrix-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-hystrix-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/cloud-provider-hystrix-payment8001/target/classes/com/atguigu/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/cloud-provider-hystrix-payment8001/target/classes/com/atguigu/springcloud/service/PaymentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +131,8 @@
       <option name="presentableId" value="Default" />
       <updated>1647326752311</updated>
       <workItem from="1647326753669" duration="5740000" />
+      <workItem from="1648431239316" duration="1831000" />
+      <workItem from="1648516122646" duration="595000" />
     </task>
     <servers />
   </component>
