@@ -18,6 +18,8 @@
     <module>cloud-consumer-hystrix-order80</module>
     <module>cloud-consumer-hystrix-dashboard9001</module>
       <module>cloud-gateway-gateway9527</module>
+    <module>cloud-stream-rabbitmq-provider8801</module>
+      <module>cloud-stream-rabbitmq-consumer8802</module>
   </modules>
   <packaging>pom</packaging>
 
