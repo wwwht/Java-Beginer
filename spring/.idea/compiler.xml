@@ -13,7 +13,9 @@
         <module name="cloud-api-commons" />
         <module name="cloud-consumer-hystrix-order80" />
         <module name="cloud-provider-payment8001" />
+        <module name="cloud-kafka-to-database9491" />
         <module name="cloud-eureka-server7002" />
+        <module name="image-mirror13211" />
         <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="cloud-consumer-hystrix-dashboard9001" />
         <module name="cloud-stream-rabbitmq-consumer8802" />

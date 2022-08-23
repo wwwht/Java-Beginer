@@ -25,6 +25,8 @@
       <module>cloudalibaba-provider-payment9002</module>
       <module>cloudalibaba-consumer-nacos-order83</module>
       <module>cloudalibaba-config-nacos-client3377</module>
+      <module>image-mirror13211</module>
+    <module>cloud-kafka-to-database9491</module>
   </modules>
   <packaging>pom</packaging>
 

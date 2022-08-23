@@ -1,0 +1,10 @@
+server:
+  port: 13211
+
+spring:
+  application:
+    name: image-mirror-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:13211
